@@ -1,0 +1,49 @@
+id_parceiro,nome_parceiro,tipo_parceiro,ramo_parceiro,taxa_conversao_real_por_pontos
+1,Casas Bahia,pontuação,Varejo,5
+2,Natura,pontuação,Varejo,10
+3,Renner,pontuação,Varejo,10
+4,Petlove,pontuação,Varejo,10
+5,C&A,pontuação,Varejo,10
+6,Fast Shop,pontuação,Varejo,6
+7,Insider,pontuação,Varejo,5
+8,Beach Park,pontuação,Viagens,5
+9,Hoteis.com,pontuação,Viagens,5
+10,Kabum,pontuação,Varejo,4
+11,Carrefour Mercado,pontuação,Varejo,3
+12,Panvel,pontuação,Farmácia,3
+13,Hertz,pontuação,Locadora,3
+14,Dollar,pontuação,Locadora,3
+15,Thrifty,pontuação,Locadora,3
+16,Banco do Brasil,pontuação,Banco,1
+17,Bradesco,pontuação,Banco,1
+18,Caixa Econômica Federal,pontuação,Banco,1
+19,BMG,pontuação,Banco,1
+20,Banco PAN,pontuação,Banco,1
+21,Magazine Luiza,pontuação,Varejo,5
+22,Americanas,pontuação,Varejo,5
+23,Eletrolux,pontuação,Varejo,5
+24,Decolar,pontuação,Viagens,5
+25,Easylive,pontuação,Viagens,4
+26,Shoptime,pontuação,Varejo,3
+27,C6 Bank,pontuação,Banco,1
+28,Mercado Livre,pontuação,Varejo,2
+29,Uber,pontuação,Transporte,1
+30,Shopee,pontuação,Varejo,3
+31,PontoFrio,pontuação,Varejo,3
+32,NOMAD,pontuação,Banco,3
+33,Safra,pontuação,Banco,3
+34,Banco BV,pontuação,Banco,3
+35,Genial Investimentos,pontuação,Banco,3
+36,Banco Nordeste,pontuação,Banco,3
+37,UniCred,pontuação,Banco,3
+38,XP,pontuação,Banco,3
+39,Banestes,pontuação,Banco,3
+40,BRB Card,pontuação,Banco,3
+41,Shopping LIVELO,pontuação,Varejo,4
+42,Clube LIVELO,assinatura,assinatura,null
+43,LIVELO,compra pontos,compra pontos,null
+44,Azul Fidelidade,troca,Passagens,1
+45,GOL Smiles,troca,Passagens,1
+46,LATAM Pass,troca,Passagens,1
+47,CVC,troca,Passagens,1
+48,Decolar,troca,Passagens,1
